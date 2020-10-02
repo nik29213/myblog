@@ -1,0 +1,38 @@
+.cont {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.centered {
+  position: absolute;
+  top: 23%;
+  left: 33%;
+  transform: translate(-20%, -20%);
+
+}
+.top-left {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+}
+.addinput{
+  background: 0;
+  outline: 0;
+  border: 0;
+  border-bottom: 2px solid rgba(255,255,255, 0.3);
+  font-weight: bold;
+  color:#fff;
+}
+.addbg{
+border-bottom-right-radius: 45px;
+}
+.bg-blu{
+  background:#0D0225;
+}
+.bg-yellow{
+ background:#ff9900;
+}
+.txt-yellow{
+color:#ff9900;
+}
